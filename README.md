@@ -27,5 +27,4 @@
 </picture>
 
 ###
-<img src="https://raw.githubusercontent.com/skysparks777/skysparks777/output/snake.svg" alt="Snake animation" />
-###
+
